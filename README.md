@@ -1,1 +1,1 @@
-# Gpt-color-theme
+# Gpt-color-theme for Sublime Text
