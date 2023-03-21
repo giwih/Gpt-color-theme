@@ -1,6 +1,8 @@
 # Gpt-color-theme for Sublime Text
 These color schemes are not official
 
+(for now support only python)
+
 <h2> ❤️ Addition version! (gl-gpt-Dark)</h2>
 
 ![Image alt](https://github.com/giwih/Gpt-color-theme/raw/main/gpt-addition.png)
