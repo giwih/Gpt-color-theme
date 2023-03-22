@@ -10,3 +10,7 @@ These color schemes are not official
 <h2> 🖤 Classic version! (cl-gpt-Dark)</h2>
 
 ![Image alt](https://github.com/giwih/Gpt-color-theme/raw/main/gpt.png)
+
+<h2>🧡 Less contrast version!</h2>
+
+![Image alt](https://github.com/giwih/Gpt-color-theme/raw/main/contrast.png)
