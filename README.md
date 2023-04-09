@@ -14,3 +14,15 @@ These color schemes are not official
 <h2>🧡 Less contrast version!</h2>
 
 ![Image alt](https://github.com/giwih/Gpt-color-theme/raw/main/images/contrast.png)
+
+<h2>🌈Installation</h2>
+
+<b>1.Preferences > Browse Packages 
+
+2.Create a new folder with any name 
+
+3.Transfer all files there (without Readme.md and Images folder) 
+
+4.Preferences > Select Color Theme 
+
+5.Choose the theme you need </b>
