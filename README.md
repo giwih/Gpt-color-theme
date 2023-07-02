@@ -1,7 +1,5 @@
-# Gpt-color-theme for Sublime Text
-These color schemes are not official
-
-(for now support only python)
+# Gpt-color-theme
+These color themes are followed in Sublime Text and Vs Code
 
 <h2> ❤️ Addition version! (gl-gpt-Dark)</h2>
 
