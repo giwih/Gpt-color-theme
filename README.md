@@ -13,7 +13,7 @@ These color themes are followed in Sublime Text and Vs Code
 
 ![Image alt](https://github.com/giwih/Gpt-color-theme/raw/main/images/contrast.png)
 
-<h2>🌈Installation</h2>
+<h2>🌈Installation Sublime Text</h2>
 
 <b>1.Preferences > Browse Packages 
 
@@ -24,3 +24,14 @@ These color themes are followed in Sublime Text and Vs Code
 4.Preferences > Select Color Theme 
 
 5.Choose the theme you need </b>
+
+
+<h2>🦀Installation VS Code</h2>
+
+<b>1.Downloading settings.json
+
+2.In VS Code, open the settings in json format
+
+3.Copy the entire text from the downloaded settings.json
+
+4.Paste the copied text into your settings </b>
