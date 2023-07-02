@@ -1,7 +1,4 @@
 {
-  "editor.mouseWheelZoom": true,
-  "editor.fontSize": 16,
-  "editor.fontFamily": "Cascadia Code",
   "editor.tokenColorCustomizations": {
         "textMateRules": [
           {
